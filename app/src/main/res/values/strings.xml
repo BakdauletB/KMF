@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KMF App</string>
+    <string name="registration">Регистрация</string>
+    <string name="information">Информация</string>
+</resources>
